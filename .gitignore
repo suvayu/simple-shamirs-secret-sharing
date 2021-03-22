@@ -29,3 +29,8 @@ build
 
 # scratch directories
 tmp
+
+
+# Added by cargo
+
+/target
